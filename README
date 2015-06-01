@@ -1,0 +1,1 @@
+ome python scripts I wrote in 2013 to compile standard prices of motorcycles from Kelly Blue Book, and cross reference that with motorcycles posted on Craigslist. This is currently broken, as the DOM element arrangements of these sites has changed, but with a little TLC this could be functional.
